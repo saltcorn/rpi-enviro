@@ -1,0 +1,12 @@
+{
+  "name": "@saltcorn/rpi-enviro",
+  "version": "0.1.0",
+  "description": "Raspberry Pi Enviro sensors",
+  "main": "index.js",
+  "dependencies": {
+    "python-bridge": "^1.1.0"
+  },
+  "author": "Tom Nielsen",
+  "license": "MIT",
+  "repository": "github:saltcorn/rpi-enviro"
+}
